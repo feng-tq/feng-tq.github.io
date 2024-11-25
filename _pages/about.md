@@ -13,7 +13,11 @@ I am a recent Master of Mathematics graduate from the University of Melbourne, w
 My thesis explored Split Polynomials, contributing to the study of the Sullivan Conjecture.
 I am passionate about mathematical research, particularly in algebraic topology and its intersections with algebraic geometry.
 
+You can find my [thesis][thesis] and [CV][cv] on the navigation bar above.
+
 Feel free to reach out at [tianqif@student.unimelb.edu.au][email].
 
 [crowley]: https://www.dcrowley.net/
 [email]: mailto:tianqif@student.unimelb.edu.au
+[thesis]: /files/thesis.pdf
+[cv]: /files/cv.pdf
