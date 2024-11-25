@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tianqi Feng"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "For what is humanity, but a Hausdorff but nevertheless path-connected topological space."
   location         : "Melbourne"
   employer         : "University of Melbourne"
   uri              : # URL
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

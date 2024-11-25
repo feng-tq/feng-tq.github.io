@@ -20,8 +20,11 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
 
+  - title: "Thesis"
+    url: /files/thesis.pdf
+
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
 
   # - title: "Guide"
     # url: /markdown/
