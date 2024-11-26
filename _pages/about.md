@@ -9,15 +9,15 @@ redirect_from:
 
 Hi there!
 
-I am a recent Master of Mathematics graduate from the University of Melbourne, where I was supervised by [Diarmuid Crowley][crowley].
-My thesis explored Split Polynomials, contributing to the study of the Sullivan Conjecture.
+I am a recent Master of Mathematics graduate from the University of Melbourne, where I was supervised by [Diarmuid Crowley][crowley] and [Csaba Nagy][nagy].
+My [thesis][thesis] explored an object called the Split Polynomials, contributing to the study of the Sullivan Conjecture (read more about this [here][crowley20]).
 I am passionate about mathematical research, particularly in algebraic topology and its intersections with algebraic geometry.
-
-You can find my [thesis][thesis] and [CV][cv] on the navigation bar above.
 
 Feel free to reach out at [tianqif@student.unimelb.edu.au][email].
 
 [crowley]: https://www.dcrowley.net/
+[nagy]: https://www.maths.gla.ac.uk/~cnagy/
 [email]: mailto:tianqif@student.unimelb.edu.au
 [thesis]: /files/thesis.pdf
 [cv]: /files/cv.pdf
+[crowley20]: https://doi.org/10.48550/arXiv.2003.09216
