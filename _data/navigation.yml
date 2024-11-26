@@ -23,11 +23,11 @@ main:
   - title: "Thesis"
     url: /files/thesis.pdf
 
-  - title: "CV"
-    url: /files/cv.pdf
+  # - title: "CV"
+  #   url: /files/cv.pdf
 
-  - title: "CV Test"
-    url: /cv-test/
+  - title: "CV"
+    url: /cv/
 
   # - title: "Guide"
     # url: /markdown/
