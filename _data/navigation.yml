@@ -26,5 +26,8 @@ main:
   - title: "CV"
     url: /files/cv.pdf
 
+  - title: "CV Test"
+    url: /cv-test/
+
   # - title: "Guide"
     # url: /markdown/
