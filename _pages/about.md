@@ -9,7 +9,8 @@ redirect_from:
 
 Hi there!
 
-I am a recent Master of Mathematics graduate from the University of Melbourne, where I was supervised by [Diarmuid Crowley][crowley] and [Csaba Nagy][nagy].
+I am a recent Master of Mathematics graduate from the University of Melbourne,
+where I was supervised by [Diarmuid Crowley][crowley] and [Csaba Nagy][nagy] (University of Glasgow).
 
 My [thesis][thesis] defines and explores an object called the Split Polynomials (originally introduced by [Csaba Nagy][nagy]),
 relevant to the study of the Sullivan Conjecture (read more about this here: [`arXiv:2003.09216 [math.GT]`][crowley20]).
