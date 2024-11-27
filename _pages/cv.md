@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 A PDF version can be found [here][cv].
 
 [cv]: /files/cv.pdf
