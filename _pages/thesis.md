@@ -19,7 +19,7 @@ relevant to the study of the Sullivan Conjecture (read more about this here: [`a
 <details markdown="1">
   <summary>Abstract</summary>
   The Sullivan Conjecture posits the existence of complete intersections that,
-  while distinct as complex manifolds, share the same underlying smooth structure.
+  while distinct as complex manifolds, share isomorphic underlying smooth structures.
   In order to study these complete intersections, we rely on an associated normal map,
   which is the data maps of the form $\gamma \to \gamma^{\otimes d}$, where $\gamma$ is a line bundle.
   We define the *split polynomials*, a monoid under composition formed by polynomials
