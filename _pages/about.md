@@ -12,7 +12,7 @@ Hi there!
 I am a recent Master of Mathematics graduate from the University of Melbourne,
 where I was supervised by [Diarmuid Crowley][crowley] and [Csaba Nagy][nagy] (University of Glasgow).
 
-My [thesis][thesis] defines and explores an object called the Split Polynomials (originally introduced by [Csaba Nagy][nagy]),
+My [thesis][thesis] defines and explores an object called the <em>split polynomials<em> (originally introduced by [Csaba Nagy][nagy]),
 relevant to the study of the Sullivan Conjecture (read more about this here: [`arXiv:2003.09216 [math.GT]`][crowley20]).
 I am passionate about mathematical research, particularly in algebraic topology and its intersections with algebraic geometry.
 

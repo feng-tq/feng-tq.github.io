@@ -21,7 +21,7 @@ main:
     # url: /year-archive/
 
   - title: "Thesis"
-    url: /files/thesis.pdf
+    url: /thesis/
 
   # - title: "CV"
   #   url: /files/cv.pdf
