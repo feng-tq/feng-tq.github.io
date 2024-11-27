@@ -21,6 +21,6 @@ Feel free to reach out at [tianqif@student.unimelb.edu.au][email].
 [crowley]: https://www.dcrowley.net/
 [nagy]: https://www.maths.gla.ac.uk/~cnagy/
 [email]: mailto:tianqif@student.unimelb.edu.au
-[thesis]: /files/thesis.pdf
+[thesis]: /thesis/
 [cv]: /files/cv.pdf
 [crowley20]: https://doi.org/10.48550/arXiv.2003.09216
