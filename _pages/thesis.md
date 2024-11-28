@@ -5,7 +5,7 @@ permalink: /thesis/
 author_profile: true
 ---
 
-My thesis defines and explores an object called the *split polynomials* (originally introduced by [Csaba Nagy][nagy]),
+My thesis defines and explores a topological monoid called the *split polynomial space* (originally introduced by [Csaba Nagy][nagy]),
 relevant to the study of the Sullivan Conjecture (read more about this here: [`arXiv:2003.09216 [math.GT]`][crowley20]).
 - A PDF copy of my thesis can be found [here][thesis].
 - Slides for the subsequent talk I made for my thesis can be found [here][slides].
