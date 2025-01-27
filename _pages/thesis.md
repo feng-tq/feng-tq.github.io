@@ -24,7 +24,7 @@ relevant to the study of the Sullivan Conjecture (read more about this here: [`a
   which is the data maps of the form $\gamma \to \gamma^{\otimes d}$, where $\gamma$ is a line bundle.
   We define the *split polynomials*, a monoid under composition formed by polynomials
   of the form $z \mapsto z^d$ on a one-dimensional subspace of a complex vector space.
-  A *split polynomials* serves as a basic model for the behaviour observed on each fibre of the normal map.
+  A *split polynomial* serves as a basic model for the behaviour observed on each fibre of the normal map.
   We then explore the structure of this split polynomial space and its quotient under the unitary group action,
   which we denote as the $\mathcal A$-space. While not the primary objective,
   we hope that we may gather evidence supporting the veracity of the
